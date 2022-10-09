@@ -28,7 +28,6 @@ body{
 .title-alojamiento{
     display: inline-block;
     border-top: 5px solid #2999e3;
-    font-size: 2.5rem;
     font-weight: 500;
     padding-top: 1.2rem;
 }
